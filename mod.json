@@ -1,0 +1,10 @@
+{
+	"geode": "v0.1.0",
+	"version": "v1.3.0",
+	"id": "com.camila314.betterloading",
+	"name": "Better Loading",
+	"developer": "camila314",
+	"description": "Optimizes loading levels by up to 4x",
+	"binary": "BetterLoading",
+	"dependencies": []
+}
